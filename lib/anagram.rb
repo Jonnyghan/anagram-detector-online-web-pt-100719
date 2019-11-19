@@ -10,7 +10,7 @@ class Anagram
   end
     
   def match(array)
-    array
+    array.select do
     @words.split
   
   end
