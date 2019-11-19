@@ -10,6 +10,7 @@ class Anagram
   end
     
   def match(array)
+    array
     @words.split
   
   end
